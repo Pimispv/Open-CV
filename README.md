@@ -22,11 +22,4 @@ Enjoy!
 - 2:28:48 Project 2: Face anonymizer
 - 3:10:32 Outro
 
-## projects
 
-The code for the 2 projects we cover in this course is in a different repository.
-
-Repositories:
-
-- [Color detection](https://github.com/computervisioneng/color-detection-opencv)
-- [Face anonymizer](https://github.com/computervisioneng/face-anonymizer-ptyhon)
