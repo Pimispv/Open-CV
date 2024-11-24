@@ -4,7 +4,6 @@ Welcome to this 3 hours course on OpenCV with Python. This course is ideal for b
 
 Enjoy!
 
-[![Watch the video](https://img.youtube.com/vi/eDIj5LuIL4A/0.jpg)](https://www.youtube.com/watch?v=eDIj5LuIL4A)
 
 ## course outline
 
